@@ -1,0 +1,2 @@
+Primer archivo para crear commits
+Practica para crear commits para entender como funcionan las etapas de Staging y Commit  	 	
